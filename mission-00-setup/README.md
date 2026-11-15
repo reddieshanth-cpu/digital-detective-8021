@@ -58,5 +58,5 @@ Not applicable.
 
 **Repository visibility:** Public
 
-**Push status:** To be verified.
+**Push status:** Successfully pushed to Github.
 
