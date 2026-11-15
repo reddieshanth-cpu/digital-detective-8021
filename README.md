@@ -50,3 +50,12 @@ Each mission is documented separately and committed to GitHub as part of the lea
 
 The project contains nine mission folders, each with its own README file, along with a root README and an evidence folder.
 
+## My Learning
+
+Through this assignment, I have learned:
+
+1. How a computer uses input, processing, output and storage to perform tasks.
+2. How to use Terminal commands to manage files and directories.
+3. How operating systems manage processes, memory, files and permissions.
+4. How Python programs run and how numbers are represented in binary and hexadecimal.
+5. How Git tracks changes and GitHub helps store and collaborate on projects.
