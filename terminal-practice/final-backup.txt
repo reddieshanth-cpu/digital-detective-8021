@@ -1,0 +1,2 @@
+I am learning Terminal commands.
+This is my Digital Detective assignment.
