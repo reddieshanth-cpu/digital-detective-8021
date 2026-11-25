@@ -41,7 +41,7 @@ I used Terminal commands to navigate to the project directory, open the correct 
 
 ## 7. Evidence / files
 
-- Root `README.md` — Project overview and mission index (final update pending).
+- Root README.md — Project overview, mission index and learning summary.
 - `mission-00-setup/README.md`
 - `mission-01-computer-basics/README.md`
 - `mission-02-terminal/README.md`
