@@ -30,23 +30,26 @@ The objective of this mission was to understand basic computer networking concep
 
 **Commands used:**
 
-1. `ping -c 4 google.com`
-2. `nslookup google.com`
+1. `ping -c 4 example.com`
+2. `nslookup example.com`
+
 
 **Connectivity test observations:**
 
 - Packets transmitted: 4
 - Packets received: 4
 - Packet loss: 0%
-- Average response time: 21.851 ms
+- Average response time: 6.403 ms
 
 The ping command checks whether a destination can be reached over the network and measures response time.
 
 **DNS lookup observations:**
 
-- Domain name: google.com
+- Domain name: example.com
 - DNS server: 8.8.8.8
-- Returned IP address: 142.250.206.78
+- Resolved IP addresses:
+  - 172.66.147.243
+  - 104.20.23.154
 
 The nslookup command displays DNS information and helps find the IP address associated with a domain name.
 
